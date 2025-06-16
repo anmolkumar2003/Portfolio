@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.68281073.css",
-    "main.js": "/Portfolio/static/js/main.2829a655.js",
+    "main.js": "/Portfolio/static/js/main.b93b71b7.js",
     "static/css/487.bb36206c.chunk.css": "/Portfolio/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/Portfolio/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/Portfolio/static/css/990.c6a7ee28.chunk.css",
@@ -23,7 +23,7 @@
     "static/media/kodak-Smile.webp": "/Portfolio/static/media/kodak-Smile.0e77000d89db45a00daf.webp",
     "static/media/talksCardBack.svg": "/Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.68281073.css.map": "/Portfolio/static/css/main.68281073.css.map",
-    "main.2829a655.js.map": "/Portfolio/static/js/main.2829a655.js.map",
+    "main.b93b71b7.js.map": "/Portfolio/static/js/main.b93b71b7.js.map",
     "487.bb36206c.chunk.css.map": "/Portfolio/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/Portfolio/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/Portfolio/static/css/990.c6a7ee28.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.68281073.css",
-    "static/js/main.2829a655.js"
+    "static/js/main.b93b71b7.js"
   ]
 }
