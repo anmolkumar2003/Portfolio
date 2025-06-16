@@ -34,7 +34,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/anmolkumar2003",
   linkedin: "https://www.linkedin.com/in/anmol-kumar-81a3b7216/",
-  gmail: "ad2084739@gmail.com",
+  gmail: "anmol.ios58@gmail.com",
   //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
   //medium: "https://medium.com/@saadpasta",
@@ -362,7 +362,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91 8054205658",
-  email_address: "ad2084739@gmail.com"
+  email_address: "anmol.ios58@gmail.com"
 };
 
 // Twitter Section
